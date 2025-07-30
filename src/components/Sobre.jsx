@@ -42,7 +42,7 @@ export default function Sobre() {
           Sobre Mim
         </h2>
 <p className="text-base sm:text-lg leading-relaxed text-gray-300 text-justify">
-          Atualmente, estou no <strong className="text-[#8B5CF6]">4º semestre</strong> do curso de <strong className="text-[#8B5CF6]">Engenharia de Software</strong>e tenho aprofundado meus conhecimentos em desenvolvimento e boas práticas de programação. Além disso, possuo formação técnica em <strong className="text-[#8B5CF6]">Informática</strong>, que complementa minha base técnica sólida.
+          Atualmente, estou no <strong className="text-[#8B5CF6]">4º semestre</strong> do curso de <strong className="text-[#8B5CF6]">Engenharia de Software</strong> e tenho aprofundado meus conhecimentos em desenvolvimento e boas práticas de programação. Além disso, possuo formação técnica em <strong className="text-[#8B5CF6]">Informática</strong>, que complementa minha base técnica sólida.
           <br />
           <br />
           Tenho focado meus estudos em desenvolvimento <strong className="text-[#8B5CF6]">Front-End</strong>, criando interfaces intuitivas e responsivas, mas meu objetivo é <strong className="text-[#8B5CF6]">crescer profissionalmente</strong> e expandir meu conhecimento para atuar também como desenvolvedora <strong className="text-[#8B5CF6]">Full-Stack</strong>. Estou sempre buscando aprender novas tecnologias e ferramentas para entregar soluções digitais de alta qualidade.
