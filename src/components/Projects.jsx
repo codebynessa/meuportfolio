@@ -34,7 +34,7 @@ const projects = [
     fullDesc:
       "Este projeto é um clone do Airbnb desenvolvido com tecnologias modernas do ecossistema React, focando em boas práticas, performance e escalabilidade.",
     image: "/airbnb.png",
-    liveUrl: "https://codebynessa.github.io/clone-aibnb/",
+    liveUrl: "https://clone-aibnb-eight.vercel.app/",
     codeUrl: "https://github.com/codebynessa/clone-aibnb",
     techs: ["Next.js", "TypeScript", "Tailwind" , "API REST (Next.js API Routes)"],
   },
