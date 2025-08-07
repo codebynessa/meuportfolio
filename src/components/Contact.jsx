@@ -32,7 +32,7 @@ const contacts = [
   {
     name: "WhatsApp",
     icon: <FaWhatsapp />,
-    url: "https://wa.me/5598970077648", // substitui com teu número real com DDI
+    url: "https://wa.me/5567992722891",
   },
   {
     name: "Localização",
